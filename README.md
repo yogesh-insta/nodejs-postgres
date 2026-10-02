@@ -1,5 +1,10 @@
 ## Demonstrate knowledge of NodeJS, a relational database (postgres)
 
+**Stack:** Node.js, PostgreSQL
+
+**Skills:** Relational data import
+
+
 ### The problem:
 - Write a simple batch job that retrieves a CSV file from a URL, 
 which imports orders into a database. 
@@ -47,7 +52,3 @@ run sql given in <br /> src/sql-scripts/script_v1.sql
 
 #### Run
  `npm start`
- 
- 
-
-
